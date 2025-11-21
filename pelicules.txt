@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 Nova pel·lícula
-=======
+
 Monty Python and the Holy Grail
->>>>>>> origin/main
+
